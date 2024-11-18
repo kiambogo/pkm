@@ -1,7 +1,3 @@
-Title: {{title}}
-Date: {{date}}
-
----
 # Open Tasks
 
 ## Critical:
