@@ -1,6 +1,0 @@
-# Agenda
-
-# Notes
-
-# Action Items
-- [ ] 

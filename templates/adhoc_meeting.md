@@ -1,6 +1,0 @@
-# People
-
-# Notes
-
-# Action Items
-- [ ]

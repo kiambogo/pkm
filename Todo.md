@@ -1,1 +1,0 @@
-- tag people, build people index showing recent notes, adhoc meetings, 'to discuss'
